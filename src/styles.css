@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+table {
+    margin-top: 50px;
+    border: 1px white solid;
+}
+
+td {
+    padding: 5px;
+    border: 1px white solid;
+}
